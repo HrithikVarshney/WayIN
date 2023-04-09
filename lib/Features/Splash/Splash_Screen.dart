@@ -23,7 +23,7 @@ class _SplashScreenState extends State<SplashScreen> {
               duration: const Duration(milliseconds: 1200),
               type: PageTransitionType.rightToLeft,
               alignment: Alignment.centerRight,
-              child: const Onboarding()));
+              child: Onboarding()));
     });
   }
 
