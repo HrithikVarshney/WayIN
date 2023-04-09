@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:wayin/Features/Authentication/Signup.dart';
+import 'package:wayin/Features/Authentication/Screens/Signup.dart';
 import 'Intropage1.dart';
 import 'Intropage2.dart';
 import 'Intropage3.dart';
